@@ -11,7 +11,7 @@
 
 /**
  *
- * @author megha
+ * @author Ramesh
  */
 import java.sql.*;
 public class LogIn extends javax.swing.JFrame {
@@ -40,6 +40,7 @@ public class LogIn extends javax.swing.JFrame {
         regLBL = new javax.swing.JLabel();
         InvalidLBL = new javax.swing.JLabel();
         jLabel1 = new javax.swing.JLabel();
+        jLabel1 = new javax.swing.JLabel2();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Log In");
