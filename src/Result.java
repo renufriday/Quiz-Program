@@ -182,6 +182,7 @@ public class Result extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel4;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JTable scoreTBL;
+    private javax.swing.JTable scoreTBL2;
     // End of variables declaration//GEN-END:variables
 
 }
