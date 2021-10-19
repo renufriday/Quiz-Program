@@ -169,6 +169,7 @@ public class LogIn extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel5;
     private javax.swing.JButton loginBTN;
     private javax.swing.JLabel regLBL;
+    private javax.swing.JLabel tomBL;
     // End of variables declaration//GEN-END:variables
 
 }
