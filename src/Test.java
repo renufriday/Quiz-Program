@@ -116,7 +116,7 @@ public class Test extends javax.swing.JFrame {
         e = new javax.swing.JRadioButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Quiz Time");
+        setTitle("Quiz Time Champions");
         setResizable(false);
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
